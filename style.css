@@ -1,0 +1,27 @@
+#sort_button {
+    display: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+input{
+    margin: 10px;
+}
+#div1 {
+    padding: 7px;
+    border: rgb(6, 29, 105);
+    background-color: rgb(7, 218, 255);
+    width: 50%;
+    border-radius: 15%;
+}
+#div2 {
+    padding: 7px;
+    border: rgb(250, 5, 5);
+    background-color: rgb(218, 255, 8);
+    width: 50%;
+    border-radius: 15%;
+}
+#update_button{
+    display: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
